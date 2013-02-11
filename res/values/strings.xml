@@ -5199,7 +5199,7 @@
     <string name="pie_search_summary">Access to Google Now via Pie</string>
 
     <string name="pie_center_title">Center pie</string>
-    <string name="pie_center_summary">If un-checked, pie appears where your fingers is</string>
+    <string name="pie_center_summary">If un-checked, pie appears where your finger triggers it</string>
 
 
     <string name="pie_menu_title">Persistent menu button</string>
