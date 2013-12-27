@@ -5208,6 +5208,7 @@
     <string name="pie_trigger_summary">Determine the size of the region that registers swipes</string>
 
 
+
     <string name="pie_trigger_small">Small trigger (Default)</string>
     <string name="pie_trigger_bigger">Bigger trigger</string>
     <string name="pie_trigger_large">Large trigger</string>
@@ -5216,6 +5217,10 @@
     <string name="pie_trigger_small">Small (Default)</string>
 
     <string name="pie_trigger_small">@string/pie_gap_small</string>
+
+
+    <string name="pie_trigger_small">Small</string>
+    <string name="pie_trigger_normal">Normal (Default)</string>
 
     <string name="pie_trigger_big">@string/pie_gap_big</string>
     <string name="pie_trigger_huge">@string/pie_gap_huge</string>
