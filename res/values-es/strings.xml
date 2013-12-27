@@ -1275,6 +1275,26 @@
     <string name="quick_launch_clear_cancel_button" msgid="1892854652197747064">"Cancelar"</string>
     <string name="quick_launch_display_mode_applications" msgid="1734058461846126775">"Aplicaciones"</string>
     <string name="quick_launch_display_mode_shortcuts" msgid="4177934019174169042">"Accesos directos"</string>
+                            <!-- PIE Controls --> 
+    <string name="pie_controls_title">Controles circulares</string>
+    <string name="pie_controls_summary">Permite la navegación y el reporte de estado en el modo de escritorio expandido</string>
+    <string name="pie_gravity_title">Ubicación de los controles</string>
+    <string name="pie_gravity_summary">Seleccionar la ubicación donde se encontrarán los controles circulares</string>
+    <string name="pie_gravity_top">Arriba</string>
+    <string name="pie_gravity_bottom">Abajo</string>
+    <string name="pie_gravity_right">Derecha</string>
+    <string name="pie_gravity_left">Izquierda</string>
+    <string name="pie_mode_title">Estilo de los controles</string>
+    <string name="pie_mode_summary">Selecciona el estilo de animación y adiciones de estado</string>
+    <string name="pie_mode_bare">Simple</string>
+    <string name="pie_mode_quick">Rápido</string>
+    <string name="pie_mode_default">Por defecto</string>
+    <string name="pie_mode_slow">Lento</string>
+    <string name="pie_size_title">Tamaño de los controles</string>
+    <string name="pie_size_summary">Define el tamaño de los controles circulares</string>
+    <string name="pie_size_small">Pequeño</string>
+    <string name="pie_size_large">Grande</string>
+    <string name="pie_size_gigantic">Gigante</string>
     <string name="input_methods_settings_title" msgid="6800066636850553887">"Introducción de texto"</string>
     <string name="input_method" msgid="5434026103176856164">"Introducción de texto"</string>
     <string name="current_input_method" msgid="234072873286056438">"Predeterminado"</string>
