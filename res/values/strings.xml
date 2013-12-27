@@ -5156,6 +5156,7 @@
     <string name="pie_size_gigantic">Gigantic</string>
     <string name="pie_gap_title">Pie gap</string>
 
+
     <string name="pie_gap_summary">Adjust the gap in between pie elements</string>
     <string name="pie_gap_closed">Closed</string>
     <string name="pie_gap_small">Small (default)</string>
@@ -5173,6 +5174,13 @@
     <string name="pie_gap_bigger">Bigger gap</string>
     <string name="pie_gap_large">Large gap</string>
 
+    <string name="pie_gap_summary">Adjust the gap that separates Pie elements</string>
+    <string name="pie_gap_none">None</string>
+    <string name="pie_gap_small">Small (Default)</string>
+    <string name="pie_gap_bigger">Big</string>
+    <string name="pie_gap_large">Huge</string>
+
+
     <string name="pie_menu_title">Show menu button always</string>
     <string name="pie_menu_summary">Whether or not the menu button will appear when unneeded</string>
 
@@ -5181,9 +5189,15 @@
 
     <string name="pie_trigger_title">Pie trigger area</string>
     <string name="pie_trigger_summary">Determine the size of the region that registers swipes</string>
+
     <string name="pie_trigger_small">Small trigger (Default)</string>
     <string name="pie_trigger_bigger">Bigger trigger</string>
     <string name="pie_trigger_large">Large trigger</string>
+
+
+    <string name="pie_trigger_small">Small (Default)</string>
+    <string name="pie_trigger_big">Big</string>
+    <string name="pie_trigger_huge">Huge</string>
 
 
     <!-- Navigation Bar #CM -->
