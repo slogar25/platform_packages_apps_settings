@@ -5127,6 +5127,7 @@
     <string name="network_mode_2g_3g">2G/3G Only</string>
     <string name="network_mode_2g_3g_3g2g">2G/3G Only/3G+2G</string>
 
+
     <!-- Add tiles -->
     <string name="add_title">Add</string>
 
@@ -5134,11 +5135,17 @@
     <string name="tiles_reset_title">@string/lock_screen_shortcuts_reset</string>
     <string name="tiles_reset_message">Restore the default displayed tiles and layout?</string>
 
+
+
     <!-- Pie controls -->
     <string name="pie_controls_title">Pie controls</string>
     
     <string name="pie_gravity_title">Pie gravity</string>
+
     <string name="pie_gravity_summary">Select the location where Pie will be placed at</string>
+
+    <string name="pie_gravity_summary">Select the location where pie will be placed at</string>
+
     <string name="pie_gravity_top">Top</string>
     <string name="pie_gravity_bottom">Bottom</string>
     <string name="pie_gravity_right">Right</string>
