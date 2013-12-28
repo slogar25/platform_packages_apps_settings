@@ -2074,6 +2074,12 @@
     <string name="title_tile_sync">Sincronización</string>
     <string name="title_tile_user">Usuario</string>
     <string name="title_tile_networkmode">Modo de red</string>
+
+
+    <string name="title_tile_screen_timeout">Espera de pantalla</string>
+    <string name="title_tile_usb_tether">Anclaje USB</string>
+    <string name="title_tile_quiet_hours">Modo \'tranquilidad\'</string>
+
     <string name="title_dynamic_tiles">Controles dinámicos</string>
     <string name="dynamic_tiles_note_title">Nota</string>
     <string name="dynamic_tiles_note_summary">Los controles dinámicos no son siempre visibles y sólo se mostrarán si son causados por un evento del sistema</string>
