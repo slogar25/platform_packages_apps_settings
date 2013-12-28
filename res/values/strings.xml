@@ -5172,6 +5172,7 @@
     <string name="pie_size_default">@string/pie_mode_default</string>
     <string name="pie_size_large">Large</string>
     <string name="pie_size_gigantic">Gigantic</string>
+    <string name="pie_size_monster">Monster</string>
 
 
     <string name="pie_gap_title">Pie gap</string>
@@ -5277,7 +5278,11 @@
     <string name="pie_trigger_small">@string/pie_size_small</string>
     <string name="pie_trigger_normal">@string/pie_mode_default</string>
 
+
     <string name="pie_trigger_big">@string/pie_gap_big</string>
+
+    <string name="pie_trigger_big">Big</string>
+
     <string name="pie_trigger_huge">Huge</string>
 
 
